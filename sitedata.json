@@ -10,5 +10,9 @@
   {
     "resource": "toappend",
     "link": "pjs/lib/web/toappend.js"
+  },
+  {
+    "resource": "superscript_extra",
+    "link": "pjs/lib/web/toappend.js"
   }
 ]

@@ -1,1 +1,2 @@
+algo for res.php
 write me a php code that takes in a variable res. it gets the contents of a file called 'sitedata.json'. which contains an array of objects in the format {"resource":"dadasd","link":"address"}. make it that the code checks if res is included in the array. if it is it redirects the page to the value in the corresponding "link" attribute in the chosen object

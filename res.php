@@ -1,4 +1,6 @@
 <?php
+	// made to handle requests
+
 	if(isset($_GET['req'])){
 		$what = file_get_contents("sitedata.json");
 		$req = $_GET['req'];
