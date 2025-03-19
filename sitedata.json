@@ -1,0 +1,14 @@
+[
+  {
+    "resource": "superscript",
+    "link": "pjs/lib/web/SuperScript.js"
+  },
+  {
+    "resource": "TAF",
+    "link": "pjs/cps/TAF/"
+  },
+  {
+    "resource": "toappend",
+    "link": "pjs/lib/web/toappend.js"
+  }
+]
